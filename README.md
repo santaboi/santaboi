@@ -1,9 +1,11 @@
 
 
 This is jeff 👋👋👋👋👋👋👋
+I'm from NCKU
+Major in Electrical Engineering , Bachelor's Degree , Junior Year ~  
 
-- 🔭  currently working on my personal website
-- 🌱  currently learning ...
-- 👯  looking to collaborate on ...
+- 🔭  currently rebuilding my personal website
+- 🌱  currently learning LSTM on stock market
+- 👯  keen to be an intern of small Startup or Technology Leader
 - 📫 How to reach me: by email e94081107@gs.ncku.edu.tw
-- ⚡ Fun fact:  
+- ⚡ Fun fact:I'm a super hakka man
