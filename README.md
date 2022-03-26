@@ -1,8 +1,8 @@
 
 
 This is jeff 👋👋👋👋👋👋👋
-I'm from NCKU
-Major in Electrical Engineering , Bachelor's Degree , Junior Year ~  
+from NCKU
+my Major is Electrical Engineering , Bachelor's Degree , Junior Year   
 
 - 🔭  struggling for an internship recently😢
 - 🌱  currently learning stuffs on openAI gym
