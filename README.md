@@ -1,7 +1,7 @@
 
 
 This is jeff 👋👋👋👋👋👋👋
-from NCKU
+from NCKU 
 my Major is Electrical Engineering , Bachelor's Degree , Junior Year   
 
 - 🔭  struggling for an internship recently😢
