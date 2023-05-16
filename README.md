@@ -1,8 +1,8 @@
 
 
 This is jeff 👋👋👋👋👋👋👋
-- from NCKU , Tainan City
+- Im senior student from National Cheng Kung University
 - Electrical Engineering B.S. , Senior Year   
 
 - 🔭 Research Assistant of NLPSA LAB in Academia Sinica 
-- 🌱 Machine Learning,Deep Learning enthusiast
+- 🌱 CV,NLP,ML enthusiast
