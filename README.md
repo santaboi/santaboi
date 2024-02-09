@@ -1,8 +1,6 @@
 
 
-This is jeff 👋👋👋👋👋👋👋
-- I'm a student from National Cheng Kung University
-- Electrical Engineering B.S. , Senior Year   
-
+This is jeff 👋
+- Undergraduate Student @ NCKU, National Cheng Kung University, EE
 - 🔭 Research Assistant of NLPSA LAB in Academia Sinica 
 - 🌱 CV,NLP,ML enthusiast
