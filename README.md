@@ -1,7 +1,5 @@
-
-
 This is Jeff 👋
-- Grad Student @ UMD, Computer Science
-- Undergraduate Student @ NCKU, National Cheng Kung University, EE
+- M.S. Student @ UMD, Computer Science
+- B.S. @ NCKU, EE
 - 🔭 ex-Research Assistant @ NLPSA LAB in Academia Sinica 
-- 🌱 GenAI, LLMs, Agentic Models enthusiast
+- 🌱 GenAI, LLMs, Agentic Systems enthusiast
